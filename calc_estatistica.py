@@ -9,5 +9,6 @@ def calcular_media(lista):
     tamanho = len(lista)
     media = soma / tamanho
     return media
+
 pass
 
